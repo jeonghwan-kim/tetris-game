@@ -1,2 +1,3 @@
 tetris-game
 ===========
+osx, gcc 
