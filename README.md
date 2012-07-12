@@ -1,3 +1,8 @@
 tetris-game
 ===========
-osx, gcc 
+osx, gcc
+
+You can compile using Makefile.
+
+Plz type 'make' in cmd.
+
